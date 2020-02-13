@@ -1,2 +1,2 @@
-# IMDB-Data-Studio
-Web applications for visualization and analysis of IMDB Database using Spring Framework.
+# IMDb Data Studio
+Web application for visualization and analysis of IMDB Database using Spring Framework.
